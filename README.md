@@ -1,4 +1,4 @@
-Group 3 SENG 102 (Online Clothing Store Website) Software Engineering 200 Level Direct Entry<h1>
+<h1>Group 3 SENG 102 (Online Clothing Store Website) Software Engineering 200 Level Direct Entry<h1>
 <h2> 2 in 1 website<h2>
 
 <h2> GROUP MEMBERS AND THEIR ROLES<h2>
